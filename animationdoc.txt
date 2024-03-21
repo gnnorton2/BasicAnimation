@@ -1,0 +1,9 @@
+design basic animation
+
+create/find background image
+create/find sprite image
+
+import pygame
+set background image and size
+set sprite size and movement (need loop)
+
